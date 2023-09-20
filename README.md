@@ -150,8 +150,8 @@ Follow these steps to run the frontend of the Kaiburr Task 4:
 ### Delete All Servers Alert Message
 ![App Screenshot](https://drive.google.com/uc?id=1spwgVyqGsB1JJrDccIz-iAUGqy3igsJ1)
 
-### task1.servers: MongoDB Database Collection after Deleting All Servers
+### Web UI FrontEnd At End after Deleting All Servers
 ![App Screenshot](https://drive.google.com/uc?id=1l5d8BKilb_wgCxMY2bhXuIpEATISeYYB)
 
-### Web UI FrontEnd At End
+### task1.servers: MongoDB Database Collection after Deleting All Servers
 ![App Screenshot](https://drive.google.com/uc?id=13obnnzZdAP_bl7yYgV-2vPzphToi3Pp3)
