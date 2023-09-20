@@ -136,7 +136,7 @@ Follow these steps to run the frontend of the Kaiburr Task 4:
 ![App Screenshot](https://drive.google.com/uc?id=1rCl081EWBJK6l1U8kPhsPvZlf8Jf3oyf)
 
 ### Edit Server is reflected in MongoDB
-![App Screenshot](https://drive.google.com/uc?id=1rCl081EWBJK6l1U8kPhsPvZlf8Jf3oyf)
+![App Screenshot](https://drive.google.com/uc?id=1zT0WHDNpOAH_ZgK7KnS1SYH69ZkhR4I9)
 
 ### Delete a Server Alert Message
 ![App Screenshot](https://drive.google.com/uc?id=1luaHTMH_KLAYMCBM4m78_qWFPmBBNI9P)
