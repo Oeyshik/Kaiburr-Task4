@@ -100,4 +100,43 @@ Follow these steps to run the frontend of the Kaiburr Task 4:
     
 ## Screenshots
 ### Web UI FrontEnd
-![App Screenshot](https://drive.google.com/uc?id=1bE8S9W42CYVpaFQoOw_9fsbDWQStdpZo)
+![App Screenshot](https://drive.google.com/uc?id=1l5d8BKilb_wgCxMY2bhXuIpEATISeYYB)
+
+### task1.servers: MongoDB Database Collection
+![App Screenshot](https://drive.google.com/uc?id=13obnnzZdAP_bl7yYgV-2vPzphToi3Pp3)
+
+### Create Server 1
+![App Screenshot](https://drive.google.com/uc?id=1qURsR_eMTeH7pFNSIqEHuIk-htLy-M5M)
+
+### Create Server 2
+![App Screenshot](https://drive.google.com/uc?id=10ymorwGRMTHrfQwY0Qi1VvXq0NCVt4Gg)
+
+### Create Server 3
+![App Screenshot](https://drive.google.com/uc?id=1VsS8rj0TdUQ2kg_X3wUePjqnXCuWbxg6)
+
+### Web UI FrontEnd after Creating Server
+![App Screenshot](https://drive.google.com/uc?id=1-EUJEVLClhfIlzOa6YlZUcCstAXO4vR1)
+
+### Web UI FrontEnd after Creating Server
+![App Screenshot](https://drive.google.com/uc?id=1rCl081EWBJK6l1U8kPhsPvZlf8Jf3oyf)
+
+### task1.servers: MongoDB Database Collection
+![App Screenshot](https://drive.google.com/uc?id=1zT0WHDNpOAH_ZgK7KnS1SYH69ZkhR4I9)
+
+### Web UI FrontEnd
+![App Screenshot](https://drive.google.com/uc?id=1luaHTMH_KLAYMCBM4m78_qWFPmBBNI9P)
+
+### Web UI FrontEnd
+![App Screenshot](https://drive.google.com/uc?id=1T1W5pkyxHv3J-T1wDaMMZbHnbGFWIqXe)
+
+### Web UI FrontEnd
+![App Screenshot](https://drive.google.com/uc?id=1BJ7DnJg_Aj-1rRheyh1RiDN12RCKZzMO)
+
+### Web UI FrontEnd
+![App Screenshot](https://drive.google.com/uc?id=1spwgVyqGsB1JJrDccIz-iAUGqy3igsJ1)
+
+### Web UI FrontEnd
+![App Screenshot](https://drive.google.com/uc?id=1l5d8BKilb_wgCxMY2bhXuIpEATISeYYB)
+
+### Web UI FrontEnd At End
+![App Screenshot](https://drive.google.com/uc?id=13obnnzZdAP_bl7yYgV-2vPzphToi3Pp3)
