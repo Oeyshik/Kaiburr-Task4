@@ -123,9 +123,6 @@ Follow these steps to run the frontend of the Kaiburr Task 4:
 ### Server Creation is reflected in http://localhost:8080/api/servers
 ![App Screenshot](https://drive.google.com/uc?id=1as89U_2PyR-4dHAS-9MgkHsAXRTZgCJS)
 
-### Server Creation is reflected in http://localhost:8080/api/servers
-![App Screenshot](https://drive.google.com/uc?id=1as89U_2PyR-4dHAS-9MgkHsAXRTZgCJS)
-
 ### Web UI FrontEnd after Creating multiple servers
 ![App Screenshot](https://drive.google.com/uc?id=1-M40XfmVfNrFOUUywYRqZeb3BF02NrYK)
 
