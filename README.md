@@ -118,7 +118,7 @@ Follow these steps to run the frontend of the Kaiburr Task 4:
 ![App Screenshot](https://drive.google.com/uc?id=1-EUJEVLClhfIlzOa6YlZUcCstAXO4vR1)
 
 ### task1.servers: MongoDB Database Collection after Creating a Server
-![App Screenshot](https://drive.google.com/uc?id=1zT0WHDNpOAH_ZgK7KnS1SYH69ZkhR4I9)
+![App Screenshot](https://drive.google.com/uc?id=1a0z2P4H_tZAptliWF8uYF5KVOkzsB0_g)
 
 ### Server Creation is reflected in http://localhost:8080/api/servers
 ![App Screenshot](https://drive.google.com/uc?id=1as89U_2PyR-4dHAS-9MgkHsAXRTZgCJS)
