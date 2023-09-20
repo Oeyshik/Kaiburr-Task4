@@ -1,17 +1,34 @@
 
 # Kaiburr Task 4: WEB UI Frontend
 
-This project is the frontend part of Kaiburr Task 4, created using Angular. It complements the REST API developed using Spring Boot (Kaiburr Task 1) by providing a user-friendly web interface to interact with the server data.
+This project is the frontend part of Kaiburr Task 4, created using Angular. It complements the REST API developed using Spring Boot (Kaiburr Task 1) by providing a user-friendly web interface to interact with the server data. This project showcases how to build a modern web application frontend using Angular, enhancing server management and administration.
 
 
 ## Table of Contents
 
-- [Project Structure](#project-structure)
+- [Key Features](#key-features)
+- [Technologies Used](#technologies-used)
 - [How the Task Is Made](#how-the-task-is-made)
+- [Project Structure](#project-structure)
 - [Requirements](#requirements)
 - [Prerequisites](#prerequisites)
 - [How to Run the Application](#how-to-run-the-application)
 - [Screenshots](#screenshots)
+
+## Key Features
+- Create new servers with specific details.
+- Edit server information, including name, language, and framework.
+- Delete individual servers or all servers.
+- View a list of servers with their details.
+- Interactive user interface for seamless server management.
+
+## Technologies Used
+- Angular: A powerful and popular web application framework.
+- TypeScript: A statically typed superset of JavaScript.
+- Angular Material: A UI component library for Angular applications.
+- Bootstrap 4: A responsive and customizable CSS framework.
+- RESTful API: Communicates with the backend using RESTful web services.
+
 ## How the Task Is Made
 
 The task consists of creating a web-based frontend using Angular that interacts with a REST API implemented using Spring Boot. The frontend provides functionality to view a list of servers, create new servers, edit existing servers, and delete servers.
@@ -23,6 +40,8 @@ The application uses Angular components to separate different parts of the user 
 - **Server List Component**: Displays a list of servers, and users can edit or delete individual servers.
 
 The frontend communicates with the backend using HTTP requests to perform CRUD (Create, Read, Update, Delete) operations on the server data.
+
+
 ## Project Structure
 - `src/`: This directory contains the source code and resources for the project.
     - `app/`: The main application code.
@@ -78,6 +97,7 @@ Follow these steps to run the frontend of the Kaiburr Task 4:
 5. Open a web browser and access the application at 
     ```bash
     http://localhost:4200/.
+    
 ## Screenshots
 ### Web UI FrontEnd
 ![App Screenshot](https://drive.google.com/uc?id=1bE8S9W42CYVpaFQoOw_9fsbDWQStdpZo)
