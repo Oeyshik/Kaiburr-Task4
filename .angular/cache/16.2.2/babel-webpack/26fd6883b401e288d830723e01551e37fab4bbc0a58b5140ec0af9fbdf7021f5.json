@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class Server {\n  constructor() {\n    this.id = '';\n    this.name = '';\n    this.language = '';\n    this.framework = '';\n  }\n}","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
